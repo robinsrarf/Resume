@@ -37,7 +37,7 @@
 
 ## 🚀 **Projects**  
 
-### **TeamTrack**  
+### [**TeamTrack**](https://github.com/heyhassanbilal/TeamTrack) 
 *Collaborative Project Management System*  
 **Technologies:** React.js, Tailwind CSS, MongoDB, SpringBoot  
 
@@ -47,7 +47,7 @@
 
 ---
 
-### **WikiLinkTree**  
+### [**WikiLinkTree**](https://github.com/robinsrarf/WikiLinkTree)
 *Wikipedia Links Visualization*  
 **Technologies:** React.js, Tailwind CSS  
 
